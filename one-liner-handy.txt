@@ -1,0 +1,49 @@
+sections = {
+    "Job, Salary, or Career Questions": [
+        "I’d rather not talk about money.",
+        "That’s between me and my employer.",
+        "I keep work stuff private.",
+        "Why does that matter to you?",
+        "I’m happy with how things are going — thanks for asking.",
+        "Let’s talk about something else."
+    ],
+    "Illness, Health, or Personal Issues": [
+        "That’s personal — I’d rather not get into it.",
+        "I’m managing, thanks.",
+        "Not something I feel like discussing right now.",
+        "Let’s keep the conversation respectful.",
+        "I’ve moved past that, and I’d prefer not to go back."
+    ],
+    "Passive-Aggressive or Sarcastic Comments": [
+        "Was that supposed to be supportive?",
+        "Interesting choice of words.",
+        "Thanks… I think?",
+        "You always have a unique sense of humor.",
+        "If that was a joke, I didn’t get it.",
+        "You say that like it’s a compliment."
+    ],
+    "When They Keep Pushing After You’ve Said No": [
+        "I’ve already answered that.",
+        "You keep asking. Is there a reason?",
+        "I’m not changing my answer.",
+        "Let’s drop it."
+    ],
+    "When You Want to Flip the Power Back": [
+        "Why do you ask?",
+        "What are you hoping I’ll say?",
+        "That’s a strange thing to bring up.",
+        "You seem really focused on my life — want to talk about yours?",
+        "You’re very consistent — I’ll give you that."
+    ],
+    "When You Want to End the Conversation": [
+        "This isn’t a conversation I want to continue.",
+        "I’m done explaining myself.",
+        "You’re not entitled to that information.",
+        "We can talk about something else — or not talk at all."
+    ],
+    "Bonus: Light, Humorous Deflections": [
+        "Not enough to retire yet!",
+        "I’ll send a press release when something exciting happens.",
+        "I didn’t realize we were doing interviews today.",
+        "Let me know when you’re done analyzing my life."
+    ]
